@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color Change App</string>
+    <string name="Red">RED</string>
+    <string name="Blue">BLUE</string>
+    <string name="Green">GREEN</string>
+    <string name="textonview">RGB COLOR VALUES</string>
+</resources>
